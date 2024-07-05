@@ -19,7 +19,7 @@ The `data.json` file contains the following fields:
 - `random_split` : Whether the sample is for 'train' or 'test' in the random split.
 - `compositional_split` : Whether the sample is for 'train' or 'test' in the compositional split.
 
-`id`, `department`, and `importance` fields keeps the same value with the corresponding EHRSQL data sample.
+`id`, `department`, and `importance` fields keeps the same values as in the corresponding EHRSQL data sample.
 
 
 ## Citation
